@@ -1,0 +1,636 @@
+"D:/Git Repos/BloodSweatAndTears/Content/Geometry/Meshes/CubeMaterial.uasset" 0
+"D:/Git Repos/BloodSweatAndTears/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 2
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 3
+"D:/Git Repos/BloodSweatAndTears/Content/Geometry/Meshes/1M_Cube.uasset" 4
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/BoosterPad.uasset" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/resources.uasset" 7
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/PlayerControllerBP.uasset" 8
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/DONOTUSEYOUFKINGIDIOT.uasset" 9
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 10
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 11
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 12
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Animations/block.uasset" 13
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Animations/jump.uasset" 14
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/idle_kungfu.uasset" 15
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPersonRun.uasset" 16
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 17
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 18
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/CharacterAnimBPI.uasset" 19
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Animations/attacktest_heavy.uasset" 20
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Animations/heavyattack2.uasset" 21
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/AnimSocketStructure.uasset" 22
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/HeavyAttackAnimTable.uasset" 23
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Animations/lightattack.uasset" 24
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Animations/lightattack2.uasset" 25
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/LightAttackAnimTable.uasset" 26
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/BrawlerANimBP.uasset" 27
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 28
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Materials/ShieldMat.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 30
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 31
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 32
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 33
+"../../../Engine/Content/BasicShapes/Cone.uasset" 34
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 35
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 36
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 37
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 38
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 39
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 40
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 41
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 42
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 43
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 44
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 45
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 46
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 47
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 48
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 49
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 50
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 51
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 52
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 53
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 54
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit1.uasset" 55
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit1_Cue.uasset" 56
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit2.uasset" 57
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit2_Cue.uasset" 58
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit3.uasset" 59
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit3_Cue.uasset" 60
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit4.uasset" 61
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/hit4_Cue.uasset" 62
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Burst_M.uasset" 63
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_Burst.uasset" 64
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 65
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 66
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 67
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 68
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 69
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 70
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 71
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 72
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/ImpactShockWave.uasset" 73
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Basic_Wall.uasset" 74
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 75
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/BrawlerCharacter.uasset" 76
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/BrawlerSpawnPoint.uasset" 77
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/P_Steam_Lit.uasset" 78
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/ReSpawnEffect.uasset" 79
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/PlayerHandlerV2.uasset" 80
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Shop/upgradeType.uasset" 81
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Shop/Upgrade.uasset" 82
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Shop/ShopMenu.uasset" 83
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Shop/Shop.uasset" 84
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/WorldCamera.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 86
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 87
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 88
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 89
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Lake/Textures/T_SmallWaves_N.uasset" 90
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Materials/OceanWater_SS.uasset" 91
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Textures/T_LargeWaves_H.uasset" 92
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Textures/T_LargeWaves_N.uasset" 93
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Textures/T_Seafoam_01.uasset" 94
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Materials/M_OceanWater_1.uasset" 95
+"../../../Engine/Content/MapTemplates/Sky/Desert_Outer_HDR.uasset" 96
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Materials/M_OceanWater_1_Inst.uasset" 97
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Meshes/SM_OceanWater.uasset" 98
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/WaterHazard.uasset" 99
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Materials/Hatmaterial.uasset" 100
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Materials/Hatmaterial_Inst.uasset" 101
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/gameState.uasset" 102
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/BrawlerHandler.uasset" 103
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 104
+"D:/Git Repos/BloodSweatAndTears/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 105
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Blueprints/Brawler/Animations/attacktest_light.uasset" 106
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset" 107
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Maps/StartMap_BuiltData.uasset" 108
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Meshes/CubeMaterial.uasset" 109
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Meshes/Ramp_Mesh.uasset" 110
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Pillar_50x500.uasset" 111
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_400x300.uasset" 112
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_400x400.uasset" 113
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_500x500.uasset" 114
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 115
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 116
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Collapse01.uasset" 117
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Collapse02.uasset" 118
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Explosion01.uasset" 119
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Explosion02.uasset" 120
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Fire01.uasset" 121
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Fire_Sparks01.uasset" 122
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Light01.uasset" 123
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Light01_Cue.uasset" 124
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Light02.uasset" 125
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Light02_Cue.uasset" 126
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Smoke01.uasset" 127
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Starter_Birds01.uasset" 128
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Starter_Music01.uasset" 129
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Starter_Wind05.uasset" 130
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Starter_Wind06.uasset" 131
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Steam01.uasset" 132
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Explosion_Cue.uasset" 133
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/P_Explosion.uasset" 134
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 135
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 136
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 137
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Bush_D.uasset" 138
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Bush_N.uasset" 139
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Bush.uasset" 140
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Bush.uasset" 141
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Chair_M.uasset" 142
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Chair_N.uasset" 143
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Chair.uasset" 144
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Couch.uasset" 145
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Glass.uasset" 146
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Door_M.uasset" 147
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Door_N.uasset" 148
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Door.uasset" 149
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Door.uasset" 150
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 151
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 152
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 153
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 154
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 155
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_RockMesh_M.uasset" 156
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_RockMesh_N.uasset" 157
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Rock.uasset" 158
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Rock.uasset" 159
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Shelf_M.uasset" 160
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Shelf_N.uasset" 161
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Shelf.uasset" 162
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Shelf.uasset" 163
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Basic_Floor.uasset" 164
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Stairs.uasset" 165
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Cone.uasset" 166
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 167
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 168
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Pipe.uasset" 169
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 170
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Plane.uasset" 171
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Torus.uasset" 172
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Trim.uasset" 173
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 174
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 175
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 176
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Tube.uasset" 177
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 178
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 179
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 180
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Materials/FakedCaustics.uasset" 181
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Textures/T_MicroWaves_N.uasset" 182
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Textures/T_OceanFoam_01.uasset" 183
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 184
+"../../../Engine/Content/BasicShapes/Cube.uasset" 185
+"../../../Engine/Content/BasicShapes/Plane.uasset" 186
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 187
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 188
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 189
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 190
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 191
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 192
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 193
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 194
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 195
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 196
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 197
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 198
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 199
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 200
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 201
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 202
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 203
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 204
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 205
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 206
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 207
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 208
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 209
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 210
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 211
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 212
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 213
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 214
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 215
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 216
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 217
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 218
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 219
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 220
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 221
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 222
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 223
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 224
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 225
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 226
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 227
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 228
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 229
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 230
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 231
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 232
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 233
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 234
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 235
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 236
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 237
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 238
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 239
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 240
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 241
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 242
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 243
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 244
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 245
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 246
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 247
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 248
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 251
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 252
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 253
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 254
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 255
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 256
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 257
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 258
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 259
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 261
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 262
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 263
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 264
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 265
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 266
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 267
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 268
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 269
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 270
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 271
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 272
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 273
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 274
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 275
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 276
+"../../../Engine/Content/EngineResources/Black.uasset" 277
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 278
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 279
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 280
+"../../../Engine/Content/EngineSounds/Master.uasset" 281
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 283
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 284
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 285
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 286
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 287
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 288
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 289
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 290
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 291
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 292
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 293
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 304
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 305
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 306
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 307
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 308
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 309
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 310
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 311
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 312
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 313
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 314
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 315
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 316
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 317
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 318
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 319
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 320
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 321
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMDMaterial.uasset" 322
+"../../../Engine/Content/VREditor/Devices/Generic/GenericHMD.uasset" 323
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 324
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 325
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial.uasset" 326
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMaterial_Inst.uasset" 327
+"../../../Engine/Content/VREditor/Devices/Oculus/OculusControllerMesh.uasset" 328
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 329
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 330
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 331
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 332
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 333
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 334
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 335
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 336
+"../../../Engine/Content/VREditor/FloatingText/LineMaterial.uasset" 337
+"../../../Engine/Content/VREditor/FloatingText/JointSphere.uasset" 338
+"../../../Engine/Content/VREditor/FloatingText/LineSegmentCylinder.uasset" 339
+"../../../Engine/Content/VREditor/Fonts/VRText_RobotoLarge.uasset" 340
+"../../../Engine/Content/VREditor/Fonts/VRTextMaterial.uasset" 341
+"../../../Engine/Content/VREditor/Fonts/TranslucentVRTextMaterial.uasset" 342
+"../../../Engine/Content/VREditor/LaserPointer/CursorPointer.uasset" 343
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 344
+"../../../Engine/Content/VREditor/LaserPointer/HoverMaterial.uasset" 345
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 346
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentHoverMaterial.uasset" 347
+"../../../Engine/Content/VREditor/LaserPointer/HoverMesh.uasset" 348
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" 349
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset" 350
+"../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" 351
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh.uasset" 352
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_End.uasset" 353
+"../../../Engine/Content/VREditor/LaserPointer/LaserPointerMesh_Start.uasset" 354
+"../../../Engine/Content/VREditor/Sounds/VR_teleport.uasset" 355
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button.uasset" 356
+"../../../Engine/Content/VREditor/Sounds/UI/Click_on_Button_Cue.uasset" 357
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Close.uasset" 358
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 359
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Open.uasset" 360
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Pick_Up.uasset" 361
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 362
+"../../../Engine/Content/VREditor/Sounds/UI/Floating_UI_Open-001.uasset" 363
+"../../../Engine/Content/VREditor/Sounds/UI/Radial_Menu_FadeOut.uasset" 364
+"../../../Engine/Content/VREditor/Sounds/UI/Teleport_Mode_Entered.uasset" 365
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial.uasset" 366
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMaterial_Inst.uasset" 367
+"../../../Engine/Content/VREditor/Teleport/TeleportDirectionMesh.uasset" 368
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 369
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 370
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 371
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 372
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 373
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Close.uasset" 374
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Dialog_Move.uasset" 375
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 376
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 377
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 378
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 379
+"../../../Engine/Content/VREditor/Devices/Vive/UE4_Logo.uasset" 380
+"../../../Engine/Content/VREditor/UI/M_ContentWindow.uasset" 381
+"../../../Engine/Content/VREditor/UI/SM_ContentWindow_01.uasset" 382
+"../../../Engine/Content/VREditor/UI/KeyDiskMaterial.uasset" 383
+"../../../Engine/Content/VREditor/UI/DiscMaterial.uasset" 384
+"../../../Engine/Content/VREditor/UI/SM_Radial_Disk.uasset" 385
+"../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" 386
+"../../../Engine/Content/VREditor/UI/SM_Radial_Pointer.uasset" 387
+"../../../Engine/Content/VREditor/WorldMovementGrid/SimpleGrid.uasset" 388
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridMaterial.uasset" 389
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 390
+"../../../Engine/Content/VREditor/WorldMovementGrid/GridPostProcess.uasset" 391
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 392
+"../../../Engine/Content/VREditor/WorldMovementGrid/PlaneMesh.uasset" 393
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 394
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 395
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 396
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 397
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 398
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 399
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 400
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 402
+"../../Plugins/Runtime/AppleARKit/Content/ARKitCameraMaterial.uasset" 403
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 404
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 405
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 406
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 407
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 408
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 409
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 410
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 411
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 412
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 413
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 414
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 415
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 416
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 417
+"D:/Git Repos/BloodSweatAndTears/Content/Geometry/Meshes/TemplateFloor.uasset" 418
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/Epic_Chinese_Music_-_Kung_Fu.uasset" 419
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Audio/Epic_Chinese_Music_-_Kung_Fu_Cue.uasset" 420
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Maps/BrawlerMap_old.umap" 421
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 422
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Maps/mainMenu.uasset" 423
+"D:/Git Repos/BloodSweatAndTears/Content/SideScrollerBP/Maps/StartMap.umap" 424
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 425
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 426
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 427
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 428
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 429
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 430
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 431
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 432
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 433
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 434
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 435
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 436
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_AssetPlatform.uasset" 437
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 438
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 439
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 440
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 441
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 442
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 443
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 444
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 445
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Maps/Advanced_Lighting.umap" 446
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 447
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_MacroVariation.uasset" 448
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 449
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 450
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 451
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 452
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 453
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Metal_Copper.uasset" 454
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Statue_M.uasset" 455
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Statue_N.uasset" 456
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 457
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Floor_400x400.uasset" 458
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 459
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Chair.uasset" 460
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Statue.uasset" 461
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Statue.uasset" 462
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_TableRound_M.uasset" 463
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_TableRound_N.uasset" 464
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_TableRound.uasset" 465
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_TableRound.uasset" 466
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Maps/Minimal_Default.umap" 467
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Fire01_Cue.uasset" 468
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 469
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 470
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 471
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Water_N.uasset" 472
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 473
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 474
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/P_Fire.uasset" 475
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 476
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Smoke01_Cue.uasset" 477
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/P_Smoke.uasset" 478
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 479
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 480
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Spark_Core.uasset" 481
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_Spark.uasset" 482
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/P_Sparks.uasset" 483
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 484
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Steam01_Cue.uasset" 485
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 486
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Lamp_M.uasset" 487
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Lamp_N.uasset" 488
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Lamp.uasset" 489
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 490
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 491
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 492
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 493
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 494
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 495
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 496
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 497
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 498
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 499
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 500
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 501
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 502
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 503
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 504
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 505
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 506
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 507
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 508
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 509
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 510
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 511
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 512
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 513
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 514
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 515
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 516
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 517
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 518
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 519
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 520
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 521
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 522
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 523
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 524
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 525
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Gradinet_01.uasset" 526
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 527
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 528
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 529
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 530
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 531
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 532
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 533
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 534
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 535
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 536
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 537
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 538
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 539
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 540
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 541
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 542
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 543
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 544
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 545
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 546
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 547
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 548
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Ground_Grass.uasset" 549
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 550
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 551
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 552
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 553
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 554
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Ground_Moss.uasset" 555
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 556
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 557
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Metal_Gold.uasset" 558
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 559
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Metal_Rust.uasset" 560
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 561
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 562
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Metal_Steel.uasset" 563
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 564
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 565
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 566
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 567
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 568
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 569
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 570
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 571
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Rock_Slate.uasset" 572
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 573
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 574
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 575
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 576
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 577
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 578
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 579
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 580
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 581
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 582
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 583
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Tech_Panel.uasset" 584
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Water_Lake.uasset" 585
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Water_M.uasset" 586
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Water_Ocean.uasset" 587
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 588
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 589
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 590
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 591
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 592
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 593
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 594
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 595
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Wood_Oak.uasset" 596
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 597
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 598
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Wood_Pine.uasset" 599
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 600
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 601
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 602
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_400x200.uasset" 603
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 604
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 605
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Collapse_Cue.uasset" 606
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 607
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 608
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 609
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 610
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/MaterialSphere.uasset" 611
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Frame_M.uasset" 612
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Textures/T_Frame_N.uasset" 613
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/Materials/M_Frame.uasset" 614
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_CornerFrame.uasset" 615
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_DoorFrame.uasset" 616
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_GlassWindow.uasset" 617
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_PillarFrame.uasset" 618
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_PillarFrame300.uasset" 619
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Props/SM_WindowFrame.uasset" 620
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Cube.uasset" 621
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 622
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Shapes/Shape_Sphere.uasset" 623
+"D:/Git Repos/BloodSweatAndTears/Content/StarterContent/Maps/StarterMap.umap" 624
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Maps/LakeWater_Example.umap" 625
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Ocean/Blueprint/BP_OceanWater.uasset" 626
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Maps/OceanWater_Example.umap" 627
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Environment/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 628
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Lake/Textures/T_MediumWaves_H.uasset" 629
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Lake/Textures/T_MediumWaves_N.uasset" 630
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Translucent/Materials/M_TranslucentWater.uasset" 631
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Translucent/Materials/M_TranslucentWater_Inst.uasset" 632
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Translucent/Blueprint/BP_TranslucentWater.uasset" 633
+"D:/Git Repos/BloodSweatAndTears/Content/WaterPlane/Maps/TranslucentWater_Example.umap" 634
+"../../../Engine/Content/Maps/Entry.umap" 635
